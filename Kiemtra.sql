@@ -1,3 +1,6 @@
+-- Tạo database
+create database quan_ly_dat_phong;
+
 -- Phần 1 thao tác với dữ liệu
 
 -- Tạo bảng Customer
